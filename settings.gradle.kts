@@ -1,2 +1,2 @@
-rootProject.name = "InkerBotPluginExample"
+rootProject.name = "InkRandom"
 

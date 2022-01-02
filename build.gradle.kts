@@ -3,10 +3,10 @@ plugins {
     id ("com.github.johnrengelman.shadow").version("7.0.0")
 }
 
-group = "bot.inker.example"
+group = "bot.inker.random"
 version = "1.0-SNAPSHOT"
-description = "Hello, InkerBot."
-val mainClass = "bot.inker.example.ExamplePlugin"
+description = "SetRandom."
+val mainClass = "bot.inker.random.RandomPlugin"
 
 repositories {
     mavenLocal()
