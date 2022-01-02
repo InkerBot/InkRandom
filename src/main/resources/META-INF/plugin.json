@@ -1,0 +1,13 @@
+{
+  "name": "${pluginName}",
+  "describe": "${pluginDescribe}",
+  "version": "${pluginVersion}",
+  "urls": {
+    "home": "home",
+    "source": "source",
+    "issue": "issue"
+  },
+  "main": "${pluginMainClass}",
+  "depends": [
+  ]
+}
